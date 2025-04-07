@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang=fr >
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <title>La Cinémathèque québécoise</title>
+    </head>
+    <body style="background-color:Plum;">
+        <h1 style="color:indigo;">2024-2025</h1>
+        <h1>en un coup d'oeil</h1>
+        <br>
+        <table style="width:100%">
+        <th><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Font_Awesome_5_solid_couch.svg/640px-Font_Awesome_5_solid_couch.svg.png" length=50 width=50> <img src="https://cdn-icons-png.flaticon.com/512/83/83525.png" length=50 width=50><img src="https://www.clipartbest.com/cliparts/7Ta/KBG/7TaKBGLbc.png" length=50 width=50></th>    
+            <tr>
+                <td style="color:indigo;">20 000 +</td>
+                <td style="color:indigo;">12</td>
+                <td style="color:indigo;">78</td>
+                <td style="color:indigo;">21 000+</td>
+            </tr>
+            <tr>
+                <td>cinéphiles (programmation régulière)</td>
+                <td>expositions gratuites</td>
+                <td>évènements</td>
+                <td>abonné(e)s Facebook</td>
+            </tr>
+            
+            <tr>
+                <td style="color:indigo;">812</td>
+                <td style="color:indigo;">55 000 +</td>
+                <td style="color:indigo;">11</td>
+                <td style="color:indigo;">14 000 +</td>
+            </tr>
+            <tr>
+                <td>films projetés (programmation régulière)</td>
+                <td>visiteur(-euse)s</td>
+                <td>festivals</td>
+                <td>abonné(e)s X</td>
+            </tr>
+            
+            <tr>
+                <td style="color:indigo;">413</td>
+                <td style="color:indigo;">42</td>
+                <td style="color:indigo;">7</td>
+                <td style="color:indigo;">2 000 +</td>
+            </tr>
+            <tr>
+                <td>films de nos collections</td>
+                <td>projections et activités scolaires</td>
+                <td>soirées Wiki</td>
+                <td>abonné(e)s Instagram</td>
+            </tr>
+            <tr>
+                <td style="color:indigo;">17</td>
+                <td style="color:indigo;">3 000 +</td>
+                <td style="color:indigo;">6</td>
+            </tr>
+            <tr>
+                <td>cycles consacrés au cinéma québécois et canadien</td>
+                <td>public scolaire</td>
+                <td>leçons de cinéma</td>
+            </tr>
+            <tr>
+                <td style="color:indigo;">80 +</td>
+                <td></td>
+                <td style="color:indigo;">2</td>
+            </tr>
+            <tr>
+                <td>rencontres entre le public et les artisan(e)s des films présentés</td>
+                <td></td>
+                <td>artistes professionnel(le)s en résidence</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td style="color:indigo;">6</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td>résidences de 6 semaines de cinéastes d'animation de la relève</td>
+            </tr>
+        </table>
+        <br>
+        <a href="https://www.facebook.com/cinematheque.quebecoise/"><img src="https://cdn-icons-png.flaticon.com/512/20/20673.png" length=50 width=50></a>
+        <a href="https://x.com/cinemathequeqc"><img src="https://cdn4.iconfinder.com/data/icons/social-media-black-white-2/1227/X-1024.png" length=50 width=50></a>
+        <a href="https://www.instagram.com/cinemathequeqc/"><img src="https://cdn1.iconfinder.com/data/icons/feather-2/24/instagram-512.png" length=50 width=50></a>
+        
+        </body> 
+</html>
